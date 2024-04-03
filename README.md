@@ -19,6 +19,12 @@ npm run watch
 
 ![Screen shot 3 (3)](https://res.cloudinary.com/dwtu2bfi0/image/upload/v1712150637/Screenshot_from_2024-04-03_16-00-34_tu90yj.png)
 
+![Screen shot 4 (4)](https://res.cloudinary.com/dwtu2bfi0/image/upload/v1712151048/Screenshot_from_2024-04-03_16-27-25_ceq66v.png)
+
+![Screen shot 5 (5)](https://res.cloudinary.com/dwtu2bfi0/image/upload/v1712151048/Screenshot_from_2024-04-03_16-27-45_n3unas.png)
+
+![Screen shot 6 (6)](https://res.cloudinary.com/dwtu2bfi0/image/upload/v1712151048/Screenshot_from_2024-04-03_16-27-34_x7oss4.png)
+
 ## Admin Functionality:
 - CRUD Operations: Create, read, update, and delete products.
 
