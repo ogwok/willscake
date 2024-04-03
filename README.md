@@ -13,7 +13,9 @@ npm run watch
 
 ```
 ## UI
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+<img src="https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px;" />
 
 ## Admin Functionality:
 - CRUD Operations: Create, read, update, and delete products.
