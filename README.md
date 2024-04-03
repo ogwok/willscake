@@ -13,7 +13,7 @@ npm run watch
 
 ```
 ## UI
-![Duolingo thumb (1)](https://asset.cloudinary.com/dwtu2bfi0/eef7b6c4cf831dcb2bb830310999f765)
+![Duolingo thumb (1)](https://i.ibb.co/34dCGrf/Screenshot-from-2018-01-05-11-14-40.png)
 
 ## Admin Functionality:
 - CRUD Operations: Create, read, update, and delete products.
