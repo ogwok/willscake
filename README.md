@@ -13,12 +13,12 @@ npm run watch
 
 ```
 ## UI
-![Alt text](https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg)
-![Alt text](https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg)
-![Alt text](https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 ## Admin Functionality:
 - CRUD Operations: Create, read, update, and delete products.
+### Note
+- Admin Dashboard Url is '/admin'
 
 ## Client Functionality:
 - Product Viewing: Clients can view available products.
