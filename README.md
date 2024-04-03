@@ -13,9 +13,7 @@ npm run watch
 
 ```
 ## UI
-<img src="https://cdn.pixabay.com/photo/2017/01/11/11/33/cake-1971552_1280.jpg"
-alt="Markdown Monster icon"
-style="float: left; margin-right: 10px;" />
+![Duolingo thumb (1)](https://github.com/AntonioErdeljac/next14-duolingo-clone/assets/23248726/d58e4b55-bb09-456f-978e-f5f31e81b870)
 
 ## Admin Functionality:
 - CRUD Operations: Create, read, update, and delete products.
