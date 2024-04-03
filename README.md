@@ -13,12 +13,13 @@ npm run watch
 
 ```
 ## UI
-![Duolingo thumb (1)](https://github.com/AntonioErdeljac/next14-duolingo-clone/assets/23248726/d58e4b55-bb09-456f-978e-f5f31e81b870)
+![Duolingo thumb (1)](https://asset.cloudinary.com/dwtu2bfi0/eef7b6c4cf831dcb2bb830310999f765)
 
 ## Admin Functionality:
 - CRUD Operations: Create, read, update, and delete products.
-### Note
-- Admin Dashboard Url is '/admin'
+
+## Note
+- Admin Dashboard Url is **/admin**
 
 ## Client Functionality:
 - Product Viewing: Clients can view available products.
